@@ -22,9 +22,9 @@ An end-to-end business intelligence project designed to analyze hospitality busi
 ## 🚀 Dashboard Previews
 
 ### Power BI Dashboard
-![Hospitality Power BI Dashboard](Hospitality_Project.png)
+![Hospitality Power BI Dashboard](Hospitality_project.png)
 
-### Tableau / Alternate View
+### Tableau Dashboard
 ![Hospitality Project View](Hospitality_Dashboard1.png)
 
 ---
